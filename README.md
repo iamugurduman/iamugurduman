@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamugurduman
+- 👋 Hi, I’m ugur
 
 
 <!---
